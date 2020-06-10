@@ -1,0 +1,20 @@
+[
+     {
+          "id" : 1,
+          "nombre" : "Jair",
+          "empresa" : "Globant",
+          "trabajo" : "Desarrollador Web"
+     },
+     {
+          "id" : 2,
+          "nombre" : "Alejandra",
+          "empresa" : "Globant",
+          "trabajo" : "Diseñadora"
+     },
+     {
+          "id" : 3,
+          "nombre" : "Pedro",
+          "empresa" : "Globant",
+          "trabajo" : "Aplicaciones Móviles"
+     }
+]
